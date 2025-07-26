@@ -1,5 +1,5 @@
 # Michael Tu, Ph.D.
-I'm a Biomedical Engineering researcher who loves working with biosensors and laboratory automation. For fun I like to cook, read old books, and tinker with my EMACS configuration. 
+I'm a Biomedical Engineering researcher who loves working with biosensors and laboratory automation. For fun I like to cook, read books, and tinker with [EMACS](https://github.com/miketu/.emacs). 
 
 ## 💼 Experience 
 | Date        | Organization             | Role                     |
