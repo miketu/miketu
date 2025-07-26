@@ -3,8 +3,8 @@
 # 💼 Experience
 
 | Date        | Organization             | Role                     |
-|-------------+--------------------------+--------------------------|
-| 2024 -      | Thermo Fisher Scientific | Scientist III            |
+|-------------|--------------------------|--------------------------|
+| 2024 - Now      | Thermo Fisher Scientific | Scientist III            |
 | 2020 - 2024 | Liquid Diagnostics LLC   | Principal Scientist      |
 | 2017 - 2020 | EZLife Bio Inc           | R&D Director             |
 | 2015 - 2017 | UCLA Dentistry           | T90 Postdoctoral Scholar |
@@ -16,7 +16,7 @@
 # 🎓 Education
 
 | Degree | Institution                   | Year |
-|--------+-------------------------------+------|
+|--------|-------------------------------|------|
 | PhD    | UCLA (Biomedical Engineering) | 2015 |
 | MS     | UCLA (Biomedical Engineering) | 2010 |
 | BS     | UCLA (Bioengineering)         | 2009 |
