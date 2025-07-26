@@ -1,7 +1,6 @@
 #  Michael Tu, Ph.D.
 
-\
-\
+
 
 ## Experience
 
