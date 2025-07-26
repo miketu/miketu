@@ -1,7 +1,6 @@
-**Michael Tu, Ph.D.**
+# Michael Tu, Ph.D.
 
-**💼 Experience**
----
+## 💼 Experience 
 | Date        | Organization             | Role                     |
 |-------------|--------------------------|--------------------------|
 | 2024 - Now      | Thermo Fisher Scientific | Scientist III            |
@@ -13,8 +12,7 @@
 | 2009 - 2012 | UCLA Engineering         | Teacher's Assistant      |
 | 2008        | Genefluidics             | Intern                   |
 
-**🎓 Education**
----
+##🎓 Education
 | Degree | Institution                   | Year |
 |--------|-------------------------------|------|
 | PhD    | UCLA (Biomedical Engineering) | 2015 |
@@ -22,8 +20,8 @@
 | BS     | UCLA (Bioengineering)         | 2009 |
 
 
-**📑 Select Publications**
----
+##📑 Select Publications
+
 - ⭐ M. K. Tu, et al. "The Kinetics of COVID-19 Vaccine Response in a Community-Vaccinated Population," J.I., p. ji2100919, Jan. 2022, doi: 10.4049/jimmunol.2100919.
 
 - ⭐ M. Tu et al., "Rapid PCR-Free Meat Species Identification using Electric Field Induced Release and Measurement (EFIRM®)," Analytica Chimica Acta, p. S000326701931414X, Nov. 2019, doi: 10.1016/j.aca.2019.11.051.
