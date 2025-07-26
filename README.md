@@ -1,6 +1,6 @@
-#  Michael Tu, Ph.D.
+##  Michael Tu, Ph.D.
 
-# 💼 Experience
+## 💼 Experience
 
 | Date        | Organization             | Role                     |
 |-------------|--------------------------|--------------------------|
@@ -13,7 +13,7 @@
 | 2009 - 2012 | UCLA Engineering         | Teacher's Assistant      |
 | 2008        | Genefluidics             | Intern                   |
 
-# 🎓 Education
+## 🎓 Education
 
 | Degree | Institution                   | Year |
 |--------|-------------------------------|------|
@@ -22,7 +22,7 @@
 | BS     | UCLA (Bioengineering)         | 2009 |
 
 
-# 📑 Select Publications
+## 📑 Select Publications
 
 - ⭐ M. K. Tu, et al. "The Kinetics of COVID-19 Vaccine Response in a Community-Vaccinated Population," J.I., p. ji2100919, Jan. 2022, doi: 10.4049/jimmunol.2100919.
 
