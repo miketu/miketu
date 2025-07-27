@@ -1,7 +1,7 @@
-# Michael Tu, Ph.D.
-I'm a biomedical engineering researcher who loves working with biosensors, laboratory automation, and the R language. For fun I like to cook, read books, and tinker with my [emacs configuration](https://github.com/miketu/.emacs). 
+#+TITLE: Michael Tu, Ph.D.
+I'm a biomedical engineering researcher who loves working with biosensors, laboratory automation, and the R language. For fun I like to cook, read books, and tinker with my [[https://github.com/miketu/.emacs][emacs distribution]]. 
 
-## 💼 Experience 
+* 💼 Experience 
 | Date        | Organization             | Role                     |
 |-------------|--------------------------|--------------------------|
 | 2024 - Now      | Thermo Fisher Scientific | Scientist III            |
@@ -13,7 +13,7 @@ I'm a biomedical engineering researcher who loves working with biosensors, labor
 | 2009 - 2012 | UCLA Engineering         | Teacher's Assistant      |
 | 2008        | Genefluidics             | Intern                   |
 
-## 🎓Education
+* 🎓Education
 | Degree | Institution                   | Year |
 |--------|-------------------------------|------|
 | PhD    | UCLA (Biomedical Engineering) | 2015 |
@@ -21,7 +21,7 @@ I'm a biomedical engineering researcher who loves working with biosensors, labor
 | BS     | UCLA (Bioengineering)         | 2009 |
 
 
-## 📑 Select Publications
+* 📑 Select Publications
 
 - ⭐ M. K. Tu, et al. "The Kinetics of COVID-19 Vaccine Response in a Community-Vaccinated Population," J.I., p. ji2100919, Jan. 2022, doi: 10.4049/jimmunol.2100919.
 
@@ -35,4 +35,4 @@ I'm a biomedical engineering researcher who loves working with biosensors, labor
 
 - M. Suh et al., "A Remote Patient Monitoring System for Congestive Heart Failure," Journal of Medical Systems, vol. 35, no. 5, pp. 1165--1179, May 2011, doi: 10.1007/s10916-011-9733-y.
 
-- [Full list📚](https://orcid.org/0000-0002-7227-4030)
+- [[https://orcid.org/0000-0002-7227-4030][Full list📚]]
