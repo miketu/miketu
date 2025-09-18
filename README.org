@@ -4,7 +4,7 @@ I'm a biomedical engineering researcher who loves working with biosensors, labor
 * 💼 Experience 
 | Date        | Organization             | Role                     |
 |-------------|--------------------------|--------------------------|
-| 2024 - Now      | Thermo Fisher Scientific | Scientist III            |
+| 2024 - Now      | Thermo Fisher Scientific | Scientist III  (Automation)          |
 | 2020 - 2024 | Liquid Diagnostics LLC   | Principal Scientist      |
 | 2017 - 2020 | EZLife Bio Inc           | R&D Director             |
 | 2015 - 2017 | UCLA Dentistry           | T90 Postdoctoral Scholar |
