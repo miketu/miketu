@@ -1,5 +1,5 @@
 #+TITLE: Michael Tu, Ph.D.
-I'm a biomedical engineering researcher who loves working with biosensors, laboratory automation, and [[https://github.com/miketu/modeling-and-analysis][computational modeling/analysis]]. For fun I like to cook, read books, and tinker with my [[https://github.com/miketu/.emacs][emacs distribution]]. 
+I'm a biomedical engineering researcher who loves working with biosensors, laboratory automation, and [[https://github.com/miketu/modeling-and-analysis][computational models]]. For fun I like to cook, read books, and tinker with my [[https://github.com/miketu/.emacs][emacs distribution]]. 
 
 * 💼 Experience 
 | Date        | Organization             | Role                     |
