@@ -1,5 +1,5 @@
 #+TITLE: Michael Tu, Ph.D.
-I'm a biomedical engineering researcher who loves working with laboratory automation, diagnostics, and biosensors. For fun I like to cook, read books, and tinker with my [[https://github.com/miketu/.emacs][.emacs file]]. I like tinkering around with programming languages such as [[R][https://github.com/miketu/learn_r]] and [[Euphoria][https://github.com/miketu/learn_euphoria]]
+I'm a biomedical engineering researcher who loves working with laboratory automation, diagnostics, and biosensors. For fun I like to cook, read books, and tinker with my [[https://github.com/miketu/.emacs][.emacs file]]. I like tinkering around with programming languages such as [[https://github.com/miketu/learn_r][R]] and [[https://github.com/miketu/learn_euphoria][Euphoria]]
 
 * 💼 Experience 
 | Date        | Organization             | Role                     |
